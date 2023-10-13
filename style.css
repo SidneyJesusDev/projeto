@@ -133,7 +133,7 @@ ul li a {
 
 /*pseudo-selector */
 ul li a:hover {
-  background: var(--surface-cikir-hover);
+  background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
 }
 
